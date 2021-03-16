@@ -1,0 +1,27 @@
+// font
+
+
+
+// vars
+@import "./variables"; 
+
+
+
+// modules
+@import "./_modules/header";
+
+
+
+
+
+
+
+*{
+    margin:0; 
+    padding:0;
+    box-sizing: border-box;
+}
+
+.red{
+    color: $red;
+}
